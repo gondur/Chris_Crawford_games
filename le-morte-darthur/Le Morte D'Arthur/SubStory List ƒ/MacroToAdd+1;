@@ -1,0 +1,1 @@
+macro "Add +1;"menu "set strings"key "\T + 1;\E"menu "add suffix string"endm

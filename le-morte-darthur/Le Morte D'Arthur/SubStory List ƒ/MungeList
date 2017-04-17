@@ -1,0 +1,1 @@
+macro "MungeList"menu "set strings"key "\T = \E"menu "add suffix string"LOOP   key "\D\A"   select word   menu "copy"   key "\B\B\C"   menu "paste"REPEATendm

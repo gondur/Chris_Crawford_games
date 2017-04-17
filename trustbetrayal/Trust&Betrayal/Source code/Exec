@@ -1,0 +1,1 @@
+Make -f "{SBTs}JunkMake" > {SBTs}JunkResult{SBTs}JunkResultMake -f "{SBTs}MakeFile" > {SBTs}MakeResult{SBTs}MakeResultSave -aBeepDataFrame:Siboot_Ä:Siboot
